@@ -24,7 +24,7 @@ Setup and Customization
 To set up this portfolio for your own use:
 
 Clone this repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/mkwmkn/mkwmkn.github.io.git
 Customize the content by editing the HTML files to reflect your personal information, projects, and resume.
 Deploy: Push your changes to the main branch to automatically deploy it via GitHub Pages.
 License
